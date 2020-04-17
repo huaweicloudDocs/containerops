@@ -12,8 +12,7 @@
 
 ## 前提条件<a name="section559312413518"></a>
 
--   “Tenant Administrator”属于策略，请先在IAM控制台中开通基于策略的访问控制公测，开通方法请参见：[申请基于策略的访问控制公测](https://support.huaweicloud.com/usermanual-iam/iam_01_019.html)。
--   给用户组授权之前，请您了解用户组可以添加的ContainerOps权限，并结合实际需求进行选择，ContainerOps支持的系统权限，请参见：[ContainerOps系统权限](https://support.huaweicloud.com/productdesc-containerops/ops_productdesc_0006.html)。若您需要对除ContainerOps之外的其它服务授权，IAM支持服务的所有权限请参见[权限策略](https://support.huaweicloud.com/permissions/policy_list.html?product=swr)。
+给用户组授权之前，请您了解用户组可以添加的ContainerOps权限，并结合实际需求进行选择，ContainerOps支持的系统权限，请参见：[ContainerOps系统权限](https://support.huaweicloud.com/productdesc-containerops/ops_productdesc_0006.html)。若您需要对除ContainerOps之外的其它服务授权，IAM支持服务的所有权限请参见[权限策略](https://support.huaweicloud.com/permissions/policy_list.html?product=swr)。
 
 ## 示例流程<a name="section1946765275520"></a>
 
